@@ -1,4 +1,4 @@
-# Pre-requisites
+# Apple-Silicon Pre-requisites
 
 Follow this guide if using an Apple Silicon ARM chip (M1, M2, etc.)
 
